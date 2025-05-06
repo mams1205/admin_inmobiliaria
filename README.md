@@ -1,4 +1,5 @@
 # # 🏠 Sitio Web para Inmobiliaria
+# software desarrollado para la inmobiliaria Grupo Pro Queretaro y REMAX ADN Querétaro
 
 Este repositorio contiene el código fuente de una **página web para una inmobiliaria**, que permite realizar consultas dinámicas sobre propiedades almacenadas en una **base de datos SQL**, así como administrar (alta, baja y cambios) las propiedades disponibles.
 
